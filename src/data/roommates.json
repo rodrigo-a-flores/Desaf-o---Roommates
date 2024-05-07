@@ -1,0 +1,50 @@
+[
+  {
+    "id": "436fb14c-3b14-447e-a66a-a97170fb3b70",
+    "nombre": "Sanja Orlić",
+    "debe": 0,
+    "recibe": 41125
+  },
+  {
+    "id": "046390fe-14cb-4a9e-9048-6439f95678b3",
+    "nombre": "Odin Vistnes",
+    "debe": 5875,
+    "recibe": 0
+  },
+  {
+    "id": "7f6f622c-3bbd-4263-bbc6-6db7fc4dac7a",
+    "nombre": "Emilio Lozano",
+    "debe": 5875,
+    "recibe": 0
+  },
+  {
+    "id": "c5e323e7-2237-4f7f-bbb8-683ef047eed7",
+    "nombre": "Eevi Ylitalo",
+    "debe": 5875,
+    "recibe": 0
+  },
+  {
+    "id": "9747cca3-d125-4127-b1ce-e19102ccd540",
+    "nombre": "Juho Huotari",
+    "debe": 5875,
+    "recibe": 0
+  },
+  {
+    "id": "3fc606c8-6e78-4b9f-bd6b-ffe62d1627b6",
+    "nombre": "Gavrilo Ninković",
+    "debe": 5875,
+    "recibe": 0
+  },
+  {
+    "id": "9a1c9fc5-4549-4c3d-a61c-f10502285066",
+    "nombre": "Anni Heino",
+    "debe": 5875,
+    "recibe": 0
+  },
+  {
+    "id": "0645d89e-5523-4031-a554-9481814cb398",
+    "nombre": "Amílcar Silveira",
+    "debe": 5875,
+    "recibe": 0
+  }
+]

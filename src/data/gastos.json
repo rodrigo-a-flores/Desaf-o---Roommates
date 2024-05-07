@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2bc46854-a408-4264-b851-940681324202",
+    "roommate": "Sanja Orlić",
+    "descripcion": "Articulos de limpieza",
+    "monto": 15000
+  },
+  {
+    "id": "5d40fa29-4971-45ce-bb81-636c65ab601e",
+    "roommate": "Sanja Orlić",
+    "descripcion": "Articulos de limpieza",
+    "monto": 2000
+  },
+  {
+    "id": "39b6b385-675b-4977-aad4-061e8a80251e",
+    "roommate": "Sanja Orlić",
+    "descripcion": "Articulos de limpieza",
+    "monto": 15000
+  },
+  {
+    "id": "9fc5c336-c374-4d83-b5e5-7323c8daec12",
+    "roommate": "Sanja Orlić",
+    "descripcion": "Articulos de limpieza",
+    "monto": 15000
+  }
+]
